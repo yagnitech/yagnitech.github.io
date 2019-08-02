@@ -70,6 +70,8 @@
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    top: 100%;
+    padding:15% 0;
 }
 
 .csslider > .navigation > div {

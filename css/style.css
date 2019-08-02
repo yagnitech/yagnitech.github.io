@@ -417,7 +417,7 @@ li > a:only-child:after { content: ''; }
     text-transform: capitalize;
 }
 .banner-text-w3pvt {
-    padding:14vw 0 14vw;
+    padding:15vw 0 15vw;
     box-sizing: border-box;
 }
 .banner-form-w3pvt {
@@ -432,6 +432,7 @@ h2.b-w3ltxt, h3.b-w3ltxt {
     font-weight: 600;
     letter-spacing: 1px;
 	font-family: 'Poppins', sans-serif;
+    text-align:center;
 }
 
 h2.b-w3ltxt span,h3.b-w3ltxt span {
@@ -1158,6 +1159,15 @@ a.move-top span{
 }
 
 /*-- //move top --*/
+
+/*-- technology logos --*/
+
+.tech-img{
+    height:95px;
+}
+
+/*-- //technology logos --*/
+
 /*-- Responsive design --*/
 @media(max-width:1080px) {
 	h2.b-w3ltxt, h3.b-w3ltxt {
@@ -1345,10 +1355,3 @@ h2.b-w3ltxt, h3.b-w3ltxt {
 }
 /*-- //Responsive design --*/
 
-/*-- technology logos --*/
-
-.tech-img{
-    height:95px;
-}
-
-/*-- //technology logos --*/
