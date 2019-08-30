@@ -1269,7 +1269,7 @@ h3.heading, h2.heading {
     margin-bottom: 5px;
 }
 .team-grid {
-    width: 50%;
+    width: 100%;
 	margin:0 auto;
 }
 }
@@ -1350,7 +1350,7 @@ h2.b-w3ltxt, h3.b-w3ltxt {
     padding: 38vw 0 2vw;
 }
 .team-grid {
-    width: 85%;
+    width: 100%;
 }
 }
 /*-- //Responsive design --*/
