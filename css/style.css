@@ -1304,7 +1304,7 @@ h3.heading, h2.heading {
     line-height: 36px;
 }
 .team-grid {
-    width: 85%;
+    width: 100%;
     margin: 0 auto;
 }
 [id^=drop]:checked + ul {
