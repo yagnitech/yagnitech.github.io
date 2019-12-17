@@ -1354,4 +1354,29 @@ h2.b-w3ltxt, h3.b-w3ltxt {
 }
 }
 /*-- //Responsive design --*/
-
+.crda-logo
+{
+    height: 50px;width:50px;position: absolute;right: 0;transition: all 0.9s;
+}
+.team-mem-box:hover .crda-logo
+{
+    transition: all 0.9s;
+}
+.team-mem-box > .img-box
+{
+    transition: all 0.9s;
+}
+.team-mem-box:hover .img-box {
+    transform: scale(0.9);
+    transition: all 0.9s;
+}
+.link-box
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.link-pad
+{
+    padding: 0 0.5em;
+}
