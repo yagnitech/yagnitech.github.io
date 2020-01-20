@@ -1131,6 +1131,13 @@ footer,.copyright{
 span.fa.mr-2.fa-envelope,span.fa.mr-2.fa-phone,span.fa.mr-2.fa-map-marker {
     color: #5e2ced;
 }
+span.fab.mr-2.fa-whatsapp-square{
+    color: #5e2ced;
+}
+.whatsapp
+{
+    height: 13px;
+}
 /*-- //footer --*/
 /*-- move top --*/
 .move-top {
